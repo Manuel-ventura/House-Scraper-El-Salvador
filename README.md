@@ -19,7 +19,7 @@ We are scraping data from [Encuentra24](https://www.encuentra24.com/el-salvador-
 
 ```
 House-Scraper-El-Salvador/
-├── env/                # Virtual environment folder
+├── env/                # Virtual environment folder (not included in the repo)
 ├── pricescraper/       # Scrapy project folder
 │   ├── __init__.py
 │   ├── items.py
